@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex items-start">
     <AppHeader />
     <slot />
   </div>
